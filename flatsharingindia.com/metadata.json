@@ -1,0 +1,7 @@
+{
+  "name": "FlatSharingIndia.com",
+  "description": "The ultimate platform for finding flats and flatmates in India with AI-powered compatibility matching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
